@@ -11,12 +11,6 @@ This repository contains the backend code for a movie review application develop
     - [Project Structure](#project-structure)
     - [Running The Project](#running-the-project)
 - [Endpoints](#endpoints)
-    - [Writing The First Endpoint](#writing-the-first-endpoint)
-    - [Database Configuration](#database-configuration)
-    - [Installing Additional Dependencies](#installing-additional-dependencies)
-    - [Setting Up Environment Variables](#setting-up-environment-variables)
-    - [Movies and Reviews Endpoints](#movies-and-reviews-endpoints)
-- [Testing](#testing)
 - [Conclusion](#conclusion)
 
 ## Introduction
