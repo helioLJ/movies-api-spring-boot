@@ -2,6 +2,10 @@
 
 This repository contains the backend code for a movie review application developed using Java Spring Boot. The application is part of a full-stack development course and serves as the server-side component for managing movie data and reviews.
 
+![](https://i.imgur.com/4wK2qMT.png)
+![](https://i.imgur.com/TA3bcCP.png)
+![](https://i.imgur.com/8H48eS7.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
